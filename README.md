@@ -1,6 +1,6 @@
 # Aplicativo_Verifica_Inflacao_Java_AndroidStudio
 
-## Sobre a Aplição
+## Sobre a Aplicação
 - Essa aplicação feita com Java/Android consiste em saber um determinado percentual de inflação.
 
 ## Imagens
